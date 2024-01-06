@@ -1,0 +1,8 @@
+.bg-custom{
+	background: #00d4ff;
+}
+.div-color{
+ background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+ height: 900px;
+
+}
